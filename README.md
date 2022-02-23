@@ -5,7 +5,7 @@ Removes the following IDE files
 *   .factorypath
 *   .settings
 
-Excludes the files whose path contains <i>node_modules</i>
+Note: Excludes the files whose path contains <i>node_modules</i>
 
 # Tech Stack 
 *   JDK 11
